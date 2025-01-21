@@ -57,6 +57,7 @@ yarn-error.log
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 task.txt
 *.db
