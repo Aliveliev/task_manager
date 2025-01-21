@@ -7,8 +7,8 @@ Task Manager - це додаток для управління задачами,
 1. Клонуйте репозиторій:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/Aliveliev/task_manager.git
+    cd task_manager
     ```
 
 2. Створіть та активуйте віртуальне середовище:
